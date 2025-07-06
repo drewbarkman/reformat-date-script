@@ -1,6 +1,6 @@
 # reformat-date-script
 
-One of my biggest hobbies is photography, and after starting to take raw photos on a dedicated camera, I quickly found out that the photos were too large to be kept in my phone's iCloud storage. I got an external SSD to store all my pictures, and I had organized all my photos by keeping them in folders by the date they were taken and a few word description, using the format **"MM.DD.YYYY | Description"**. This worked great for me in 2024, keeping all my photos neatly in order. However, in 2025, I came to the realization that when sorting by name, because it started with the month instead of the year, the folders lost their chronological order and ended up looking a lot more messy. 
+One of my biggest hobbies is photography, and after starting to take raw photos on a dedicated camera, I quickly found out that the photos were too large to be kept in my phone's iCloud storage. I got an external SSD to store all my pictures, and I had organized all my photos by keeping them in folders by the date they were taken and a few-word description, using the format **"MM.DD.YYYY | Description"**. This worked great for me in 2024, keeping all my photos neatly in order. However, in 2025, I came to the realization that when sorting by name, because it started with the month instead of the year, the folders lost their chronological order and ended up looking messy. 
 
 Example of drive before sorting:
 
